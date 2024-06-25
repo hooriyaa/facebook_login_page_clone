@@ -33,4 +33,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the https://www.netlify.com/ from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://main--shiny-biscuit-89b442.netlify.app/) for more details.
+Check out our [Next.js deployment documentation](https://dev.to/thedaviddias/how-to-deploy-your-next-js-app-on-netlify-using-github-actions-14bn#:~:text=How%20to%20deploy%20your%20Next.js%20app%20on%20Netlify,5%20Github%20Actions%20configuration%20...%206%20Summary%20) for more details.
